@@ -9,7 +9,7 @@ This tool is tailored for sports analysts, coaches, and owners who
 require detailed insights and comparative analysis of players and team
 performances in professional volleyball.
 
-## Visit Tableau Visualisation:- <a href="https://public.tableau.com/views/VolleyVantage2/Story?:showVizHome=no">Click here</a>
+## Visit Tableau Visualisation:- <a href="https://public.tableau.com/app/profile/shreyas.lengade/viz/VolleyVantage/Story">Click here</a>
 
 
 ## METRICS USED:
